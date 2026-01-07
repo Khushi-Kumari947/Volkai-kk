@@ -1,0 +1,26 @@
+# Virtual environments
+venv/
+.env/
+.env*/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Data files / folders
+data/
+*.csv
+*.tsv
+*.xlsx
+*.json
+*.parquet
+*.db
+*.sqlite3
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
